@@ -12,6 +12,11 @@ function setGradient() {
 	+ ")";
 
 
+asdfdsafdsafdsf
+
+
+
+
 	css.textContent = body.style.background + ";";
 }
 
